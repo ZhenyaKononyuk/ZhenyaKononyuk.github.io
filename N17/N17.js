@@ -11,4 +11,4 @@ function Vowels(str){
      });
      return count;    
 }
-console.log(Vowels(a))
+alert("метод forEach " + Vowels(a))
